@@ -22,11 +22,10 @@ I'm currently on a 6-month course and roadmap to master the **.NET ecosystem**, 
 
 ---
 <p align="left">
-  <h2>Contact:</h2>
-  <a href="https://github.com/ikboljonabdumalikov">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <p>Feel free to contact me:</p>
+  <a href="https://t.me/AbdumalikovIkboljon">Telegram
   </a>
-  <a href="mailto:happinessjonabdumalikov.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+ <span>|</span>
+  <a href="mailto:happinessjonabdumalikov.com">Email
   </a>
 </p>
