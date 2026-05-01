@@ -1,8 +1,8 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-# Hi, I'm Ikboljon
+### Hi, I'm Ikboljon
  
-# 🚀 Student & Learner
+### Student
 
 I'm currently on a 6-month course and roadmap to master the **.NET ecosystem**, focusing on building scalable backends and efficient data management.
 
